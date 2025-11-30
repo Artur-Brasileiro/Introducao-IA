@@ -1,0 +1,21 @@
+ID,Nome,Idade,Data de Registro,Salário,Ativo,ID Departamento
+1,Sra. Isabela Vasconcelos,44,2022-02-11,4435.13,True,4
+2,Heitor Teixeira,40,2022-01-17,7834.97,True,2
+3,Bianca Vasconcelos,44,2022-10-28,3094.55,False,3
+4,Alice Machado,40,2023-10-10,6287.2,True,2
+5,Antônio Fernandes,54,2023-08-09,7138.43,True,4
+6,Henry Gabriel da Mata,42,2024-01-26,4941.62,False,1
+7,Sra. Maria Luiza Oliveira,58,2024-08-24,7111.25,True,3
+8,Isis Marques,24,2023-03-22,8438.66,True,4
+9,Sr. Vítor da Rosa,25,2022-03-25,2363.85,False,2
+10,Théo Cardoso,54,2022-06-05,8029.65,True,1
+11,Marcelo Rodrigues,57,2024-02-01,5812.09,True,2
+12,Maria Clara Santos,39,2023-10-21,2601.68,True,3
+13,Sofia Rios,45,2023-12-06,4990.01,False,1
+14,Benício das Neves,22,2022-04-15,2541.54,False,5
+15,Levi Silveira,16,2023-11-12,8320.27,True,4
+16,Maria Fernanda Rezende,29,2023-11-09,7436.21,False,2
+17,Thomas Casa Grande,33,2022-03-29,8205.9,True,1
+18,Davi Miguel Ribeiro,48,2022-07-10,9556.83,True,5
+19,Dr. Mathias Montenegro,62,2023-08-17,9566.83,False,3
+20,Samuel Gonçalves,21,2023-10-03,3884.99,True,3
